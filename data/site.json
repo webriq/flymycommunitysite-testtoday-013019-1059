@@ -3,10 +3,7 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": [
-        "https://res.cloudinary.com/drjzrh756/image/upload/v1526462152/d4crnqcekiztfed763av.png",
-        "https://res.cloudinary.com/drjzrh756/image/upload/v1526462152/d4crnqcekiztfed763av.png"
-      ],
+      "logo": "https://res.cloudinary.com/drjzrh756/image/upload/v1526462152/d4crnqcekiztfed763av.png",
       "logoname": "Fly My Community",
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
